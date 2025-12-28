@@ -1,0 +1,364 @@
+110	13 Nov		থিকানা পানছড়ি বাভুরো পাড়া   খাগড়া ছড়ি	Canceled	2				XL ---> navy Blue ;  L ---> Black																							
+111	15 Nov		"Name: Md sojib
+Phone: 01878020518
+Noyakhali, 
+Post office: tunchor.
+Thana: lokhipur.
+Village: Lokhipur."	Completed	1	720		602.8 [19-nov]	L ---> Black	L																						
+112	16 Nov	Susanto Mondol	Bajua, Bajua, Dacope, Khulna	Completed	1	720	137.2		XL -----> Black	XL																						
+113	16 Nov	রুহুল আমিন	"গ্রামঃ মোহাম্মদপুর 
+পোস্ট অফিসঃ জাহিদপুর বাজার
+থানা: ছাতক  
+জেলা: সুনামগঞ্জ"	Completed	1	720	117.2																									
+																																
+																																
+114	17 Nov		থানা সাঁথিয়া জেলা পাবনা ইউনিয়ন ধুলাউড়ি	Completed	1	720			L Black	L																						
+115	17 Nov		"নাম : সাগর আহমেদ 
+নম্বর :01625252164
+ঠিকানা : সাপাহার ওয়ালটন মোড়
+জেলা: নওগাঁ 
+থানা : সাপাহার 
+পোস্ট অফিস : সাপাহার 
+কালার : সাদা
+সাইজ: L"	Return	1	720		20 sthe back	L ----> White , বুকের মধ্যে টেক্সট যেটার 	L	Center Logo 																					
+116	17 Nov		"নাম: মোহাম্মেদ আলি
+নম্বর : 01858272923
+জেলা: চট্রগ্রাম 
+  হালিশহর G BLOCK  ASIA FASHION, atilarir pase."	Proccesing	1	799			M ----> off  white 	M	Side Logo 																					
+117	18 Nov		"আপনার নাম: sanjay pahan
+মোবাইল নাম্বার:01824901651
+জেলাঃ Noagaon 
+থানা :dhamorhat
+ইউনিয়ন :jahanpur
+পোস্ট অফিস :mongolbari
+গ্রামঃ boroshibpur 
+কালার : Black 
+সাইজ: XL"	Proccesing	1	720			XL --- > Black	XL	Side Logo 																					
+118	18 Nov		" নাম:Bilas kumar Biswas
+মোবাইল নাম্বার:01708454475
+ঠিকানা:Bokultola, Banani Para 
+জেলাঃJhenaidah 
+থানা :Jhenaidah 
+কালার :NavyBlue
+সাইজ:L     name: Bilas kumar Biswas , Bokultola, Jhenaidah"	Proccesing	1	720			L ----> Navy Blue -- Center Logo	L	Center Logo 																					
+119	18 Nov		"নাম:জান্নাতুল ফেরদৌস মুক্তি 
+মোবাইল নাম্বার:01761970425
+ঠিকানা:মুজগুন্নী ২১ নাম্বার মেইন রোড আয়কর ভবনের বিপরীতে সাদা ৪ তালা বিল্ডিং,খুলনা।
+জেলাঃখুলনা
+থানা :খালিশপুর 
+পোস্ট অফিস :জিপিও-৯০০০
+কালার :কালো
+সাইজ:M"	Proccesing	1	930			M ----> black -- custom desing	M	Custom Logo																					
+120	18 Nov		"নাম মাসুদ রানা
+ঢাকা মিরপুর ছয় নাম্বার
+নম্বর : 01753595470
+কালার : Black
+সাইজ : M"	Return	1	720			M ---> Black	M	Center Logo 																					
+121	18 Nov		"নাম : মামুন 
+জেলা  : গাজীপুর 
+থানা : কাপাসিয়া 
+পোস্ট অফিস : সিংহশী 
+গ্রাম : কুড়িয়াদূ সিংশী 
+কালার : কালো 
+সাইজ : L"	Pending	1	850			L ---> Custom Design	L	Custom Logo																					
+122	18 Nov		"নাম: শাহ নাদির খান 
+মোবাইল নাম্বার: ০১৭৩০৯৫৮০৬৭
+জেলা: নওগাঁ 
+থানা: নিয়ামতপুর 
+পোস্ট অফিস: হাজি নগর 
+গ্রাম: কুচ পাড়া 
+কালার: কালো 
+সাইস : L"	Proccesing	1	720			L -----> Black	L	Center Logo 																					
+123	19 Nov		"নাম : মেহেদী হাসান
+ঠিকানা : জেলা বান্দরবান 
+উপজেলা: নাইক্ষ্যংছড়ি 
+থানা :নাইক্ষ্যংছড়ি
+ফোন নাম্বার : 01640868185
+সাইজ : XL"	Proccesing	2	1300			xl --- > Black, White	XL	Center Logo 																					
+124	19 Nov		"আপনার নাম:মাহমুদুল হাছান 
+মোবাইল নাম্বার:01606186932
+জেলাঃ চাঁদপুর
+থানা :ঐ
+ইউনিয়ন :ঐ
+পোস্ট অফিস :ঐ
+গ্রামঃ পাসপোর্ট অফিস 
+কালার :কালো
+সাইজ: L"	Proccesing	1					L	Center Logo 																					
+125	19 Nov		"নাম:ক্যাথুইমং মারমা
+মোবাইল নাম্বার: 01848526824
+জেলা: বান্দরবান
+থানা: রোয়াংছড়ি
+ইউনিয়ন: রোয়াংছড়ি
+পোস্ট অফিস: বৈশাখী দোকানে
+ রোয়াংছড়ি বাজারে
+গ্রাম:  রোয়াংছড়ি
+কালার: কালো"	Proccesing	1	720			xl---> Black ---> Center logo owneor	XL	Center Logo 																					
+126	19 Nov		"Name : Akash Ahmed 
+Phn : 01704744264
+District : Meherpur 
+Thana : Gangni 
+Union : Motmura 
+Post office: 
+Village : Motmura 
+Color : Black 
+Size : M"	Proccesing	1	800			M ----> Black ----> Custom	M	Custom Logo	https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=841481569046070&mailbox_id=&selected_item_id=100092507157348&thread_type=FB_MESSAGE																				
+127			"Name : Akash Ahmed 
+Phn : 01704744264
+District : Meherpur 
+Thana : Gangni 
+Union : Motmura 
+Post office: 
+Village : Motmura 
+Color : Black 
+Size : L"		1	800			L ----> Black ----> custom	L	Custom Logo																					
+128			"Name : Akash Ahmed 
+Phn : 01704744264
+District : Meherpur 
+Thana : Gangni 
+Union : Motmura 
+Post office: 
+Village : Motmura 
+Color : Black 
+Size : XL"		1	800			XL---> Black ---> Center logo	XL	Custom Logo																					
+129	19 Nov		"Name : Gunjan Chakma 
+01518619700
+জেলা: খাগড়াছড়ি 
+উপজেলা: দীঘিনালা 
+গ্রাম: বড়াদম
+"	Pending	1	800			"XL ----> Black ----> custom
+
+এইটার মধ্যে আমাদের লোগো বসবে না 
+এবং শুধুমাত্র পিছনের ডিজাইনটা দিতে হবে "	XL	Custom Logo																					
+130	19 Nov		"নাম, তানভীর আহমেদ,,, 
+জেলা, কিশোরগঞ্জ,, 
+থানা,কুলিয়ারচর,,, 
+ইউনিয়ন, রামদি,,, 
+গ্রাম, আগরপুর বড়কান্দা 
+মোবাইল : ০১৩১৫৪৮৬৫২৭"	Proccesing	1	720			XL ----> Off White ----> center logo	XL	Center Logo 																					
+131	20 Nov		"নাম : মামুন আহমেদ 
+মোবাইল নাম্বার: 01787597825
+জেলা: মৌলভীবাজার
+থানা: Sreemangal 
+ ইউনিয়ন: আশ্রীদোন
+পোস্ট অফিস: কালিঘাট
+গ্রাম: আমানতপুর
+সাইজ:M"	Proccesing	1	720			M ----> Light Brown  ----> Center Logo	M	Center Logo 		"Facebook ID Name: 
+Mamun Ahmed
+Link: business.facebook.com/latest/inbox/all/?asset_id=841481569046070&mailbox_id&selected_item_id=61551773672249&thread_type=FB_MESSAGE"	Entry by Swadip																		
+132	20 Nov		"Name: মোবারক
+Phone: 01866786805
+মরিচ্যা
+color: Black
+size: L"	Pending	1	720			L ---> Black	L	Center Logo 		"MD Mobarak
+link: https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=841481569046070&mailbox_id=&selected_item_id=100092571841260&thread_type=FB_MESSAGE"	Entry by Rashed																		
+133	20 Nov		"অর্ডারটি কনফার্ম করতে নিচের তথ্যগুলো দিনঃ
+ আপনার নাম : MD . Sadik
+ মোবাইল নাম্বার :01797883430
+ জেলা :Bogura
+ থানা :Adomdhighi
+ ইউনিয়ন : Champapur
+ পোস্ট অফিস : Champapur 
+ গ্রাম : Champapur
+ কালার :White 
+ সাইজ : L"	Proccesing	1	850			L ----> White 	L	Center Logo 		https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=841481569046070&business_id=	Entry by Rashed																		
+134	20 Nov		"Name: Fahad Ahmed
+Phone: 01799786364
+জেলা মৌলভীবাজার 
+থানা কুলাউড়া 
+পোস্ট অফিস কুলাউড়া 
+গ্রাম কাছিমনগর
+Color: Navy Blue
+সাইজ XL"	Proccesing	1	720			XL --- > Navy blue	XL	Center Logo 		https://business.facebook.com/latest/inbox/all?asset_id=841481569046070&mailbox_id=&selected_item_id=100009325970501&thread_type=FB_MESSAGE	Entery By Rashed																		
+135	21 Nov	Rahad Chowdhury	"অর্ডারটি কনফার্ম করতে নিচের তথ্যগুলো দিনঃ
+ আপনার নাম : Rahad Chowdhury 
+ মোবাইল নাম্বার : 01648695937 
+ জেলা : Moulovibazar 
+ থানা : Sreemangal
+ ইউনিয়ন : Sreemangal
+ পোস্ট অফিস : sreemangal
+ গ্রাম : sreemangal
+ কালার :Black,white,offwhite
+ সাইজ : Black (L-2pis,XL-2pis)/White(L-2pis,XL-2pis)/Light Brown(L-1pis,XL-1piss)
+তথ্যগুলো পেলে আমরা আপনার অর্ডারটি প্রসেস করে"	Completed	10	5900			"Black (L-2pis,XL-2pis)/
+White(L-2pis,XL-2pis)/
+Light Brown(L-2pis)"		Center Logo 		https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=841481569046070&business_id=&mailbox_id=&selected_item_id=100073802256099&thread_type=FB_MESSAGE	Entry by Rashed																		
+136	21 Nov		"অর্ডারটি কনফার্ম করতে নিচের তথ্যগুলো দিনঃ
+ আপনার নাম :মুয়াজ
+ মোবাইল নাম্বার :01682822978
+ জেলা :ঢাকা
+ থানা :কেরানীগঞ্জ
+ ইউনিয়ন :শা ক্তা 
+ পোস্ট অফিস :আটিবাজার
+ গ্রাম :নবাবচার
+ কালার :নেভি ব্লু 
+ সাইজ : L 
+তথ্যগুলো পেলে আমরা আপনার অর্ডারটি প্রসেস করে দেব।"	Proccesing	1	720			L ---> Navy Blue	L	Center Logo 		https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=841481569046070&business_id=&mailbox_id=&selected_item_id=61575271197329&thread_type=FB_MESSAGE	Entry by Rashed																		
+137	21 Nov		"নামঃ লোক্মান হোসেন
+মোবাইলঃ 01701427920
+জেলাঃ মৌলভী বাজার
+থানাঃ শ্রীমঙ্গল
+ইউনিয়নঃ ৫ নং কালাপুর
+পোস্ট অফিসঃ 
+গ্রামঃ বরুনা হাজীপুর
+সাইজঃ XL"	Completed	1	850			XL--> Merun 	XL	Center Logo 			Entry by Swadip																		
+138	22 Nov		"নাম :মাহাদি হাসান জুনায়েদ, 
+ফোন : 01604801087
+সাইজ : L
+color: Navy Blue
+ঠিকানা :জেলখানা রোড, গলগন্ডা,সদর ময়মনসিংহ"	Pending	1	720			L ---> Navy Blue	L	Center Logo 			Entry by Rashed																		
+139	ajke		"নাম: রুমানা,  
+ মোবাইল নম্বর: 01735347867 
+জেলা: সাতখিরা, 
+তানা: শেমনাগর,
+ ইউনিয়ন: পদ্ম পুকুর  
+গ্রাম: পাখিমারা 
+কালার: কালো
+সাইজ : XL"	Pending	1	720			XL---> Black	XL	Center Logo 		https://business.facebook.com/latest/inbox/messenger?asset_id=841481569046070&mailbox_id=&selected_item_id=61575654917851&thread_type=FB_MESSAGE	protyay																		
+140	24 Nov		"নাম : তানবীর
+ মোবাইল নাম্বার :01819987808
+ জেলা :চট্টগ্রাম 
+ থানা : চাঁদগাও
+ ইউনিয়ন :
+ পোস্ট অফিস :
+ গ্রাম : বহদ্দারহাট বিতরে হাজির পুল বিতরে ড়ালিয়া পাড়া 
+ কালার : কালো 
+ সাইজ :XL"	Pending	1	720			XL -- > Black	XL	Center Logo 		https://business.facebook.com/latest/inbox/all?asset_id=841481569046070&selected_item_id=100089001556665&thread_type=FB_MESSAGE&mailbox_id=	Entery By Rashed																		
+141	24 Nov		"Name: Sajjad
+Phone: 01731503430
+District: comilla
+Thana: Burichong
+Union: burichong
+Village: Bijoypara 
+Postoffice: burichong 
+Size: XL
+Color:  Light Brown"	Proccesing	1	720			XL ---> Light Brown	XL	Center Logo 		https://business.facebook.com/latest/inbox/all?asset_id=841481569046070&selected_item_id=61554964978191&thread_type=FB_MESSAGE&mailbox_id=	Entry By Rashed																		
+142	24 Nov		"Name: সিফাত হোসেন
+Phone: 01976589798
+District: Chittagong
+Thana: মিরসরাই
+Union:
+Village: গরি হাস
+Size: M
+Color: Light Brown"	Completed	1	720			M ---> Light Brown	M	Center Logo 		https://business.facebook.com/latest/inbox/all?asset_id=841481569046070&selected_item_id=100095119830210&thread_type=FB_MESSAGE&mailbox_id=	Entry By Rashed																		
+143	24 Nov		"Name: নাদিম
+Phone: 01968496665
+District: Dhaka
+Thana: নবাবগঞ্জ
+Union:
+PostOffice: নবাবগঞ্জ
+Size: XL
+Color: Black
+Customer Note: আপনি নবাবগঞ্জ আইসা বাজারে আসবে যে কোন দোকানে জিগ্গেস করলেই হবে খালেক এর চার দোকান কোনটা
+"	Pending	1	720			XL ---> Black Color	XL	Center Logo 		https://business.facebook.com/latest/inbox/all?asset_id=841481569046070&selected_item_id=61556707695865&thread_type=FB_MESSAGE&mailbox_id=	Entry By Rashed																		
+144	24 Nov		"নাম রনি 
+ইউনিয়ন: তবলছড়ি তাইন্দং তিন নম্বর ইসলামপুর 
+উপজেলা: মাটিরাঙ্গা 
+জেলা: খাগড়াছড়ি 
+সাইজ XL 
+মোবাইল নাম্বার01581895147
+"	Pending	1	720			XL ---> Black Color	XL	Center Logo 		https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=841481569046070&business_id=&mailbox_id=&selected_item_id=100077989666344&thread_type=FB_MESSAGE	Entry By Hridoy																		
+145	25 Nov		" আপনার নাম : সাহেব।
+ মোবাইল নাম্বার :০১৩২৪৮৬৩৭৭১
+ জেলা : গাইবান্ধা।
+ থানা : গোবিন্দগঞ্জ।
+ ইউনিয়ন : কামদিয়া।
+ পোস্ট অফিস :
+ গ্রাম : এনায়েতপুর।
+ কালার : কালো।
+ সাইজ : L এর বড় সাইজ।
+"	Pending	1	800			L --> Black Color	L	Center Logo 		business.facebook.com/latest/inbox/all/?asset_id=841481569046070	Entry by Swadip																		
+146	25 Nov		"মোবাইলঃ 01882527776
+নোয়াখালী চাটখিল, 
+৩নং পারকোট ইউনিয়ন দশঘরিয়া বাজার, তপদার বাড়ি 
+সাইজ, .M"	Completed	1	800			M--->Off white	M	Center Logo 		business.facebook.com/latest/inbox/all/?asset_id=841481569046070&mailbox_id&selected_item_id=100053509350256&thread_type=FB_MESSAGE	Entry by Swadip																		
+147	25 Nov	Saif Mollah	" আপনার নাম :  সাইফ 
+ মোবাইল নাম্বার : 01606-178520
+ জেলা : কুমিল্লা 
+ থানা : মুরাদনগর 
+ ইউনিয়ন : রামচন্দ্রপুর 
+ পোস্ট অফিস : রামচন্দ্রপুর 
+ গ্রাম : কাঠালিয়া কান্দ 
+ কালার : black 
+ সাইজ : M, L
+Customer Note: Real Madrid ""M"", FC Barcelona ""L"""	Completed	2	1600			"Real Madrid ""M"",  ---> Black
+FC Barcelona ""L"" ----> Black
+"				https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=841481569046070&business_id=&mailbox_id=&selected_item_id=61574270581040&thread_type=FB_MESSAGE	Entry By Rashed																		
+148	26 Nov	MD Rana	"মোঃ রানা
+মোবাইল 01942636446
+জেলা ময়মনসিংহ
+থানা ত্রিশাল
+ইউনিয়ন ত্রিশাল পৌরসভা
+পোস্ট অফিস ত্রিশাল
+গ্রাম নওধার পাতার মিল ৬ নং ওয়াড পৌরসভা
+কালার কালো
+সাইজ m"	Proccesing	1	850			"M" ---> Black		Center Logo 	image bosate pari ni	https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=841481569046070&business_id=	protyay																		
+149	26 Nov		"নাম: নজমুল  
+নাম্বার ০১৭৪২০৭৪৮৪৬
+জেলা: মৌলভীবাজার 
+থানা: জুড়ি 
+ইউনিয়ন: জুড়ি 
+পোস্ট অফিস: জুড়ি 
+গ্রাম: জুড়ি 
+সাইজ: xL "	Canceled	1	720			"XL" ---> Green		Side Logo 		https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=841481569046070&mailbox_id=&selected_item_id=100089950959055&thread_type=FB_MESSAGE	Hridoy																		
+150	27 Nov	Sowraj Ahmed	"আপনার নাম:মো সোীরাজ মিয়া
+মোবাইল নাম্বার:০১৭২৬৫৬০৪৫৫
+জেলাঃ মৌলভীবাজার 
+থানা :মৌলভীবাজার 
+ইউনিয়ন :আমতৈল 
+পোস্ট অফিস :আমতৈল 
+গ্রামঃ আমতৈল 
+সাইজ: M 
+"	Proccesing	1	720			M--->Off white ( see image )	M	Center Logo 		https://business.facebook.com/latest/inbox/messenger?asset_id=841481569046070&selected_item_id=100077097318273&thread_type=FB_MESSAGE&mailbox_id=	Pranay																		
+151	27 Nov	Loard Shanto	"মোঃ শান্ত হোসেন  জেলা বগুড়া 
+০১৬১২২৩১৬৪৬
+size m
+সদর  বগুড়া ঠেঙ্গামারা টিএমএসএস মেডিকেল হসপিটাল এর থেকে ৫০০ গজ দূরে
+টিএমএসএস টেকনিক্যাল ইনস্টিটিউট  ।
+ ইমরান ভবন ওইখানে। 
+সাইজ M।
+কালার লাল।
+
+"	Return	1	720			m-->red ( see image )	M	Center Logo 		https://business.facebook.com/latest/inbox/messenger?asset_id=841481569046070&selected_item_id=61560298290014&thread_type=FB_MESSAGE&mailbox_id=	Pranay																		
+152	27 Nov	M H Nayeem	"নাম:Nayeem 
+মোবাইল নাম্বার:01707048655
+Dhanmondi r/A road 12 /A house.no.59 /A
+
+
+কালার :black 
+সাইজ: L"	Proccesing	1	790			L ---> black	L	Center Logo 		https://business.facebook.com/latest/inbox/all?asset_id=841481569046070&mailbox_id=&selected_item_id=100063841806839&thread_type=FB_MESSAGE	protyay																		
+153	28 Nov	Soriful Islam	"আপনার নাম : মো শরিফুল ইসলাম স্বপ্ন 
+ মোবাইল নাম্বার : ০১৭৫৩৭৪৩৬১৯
+ জেলা : ময়মনসিংহ 
+ থানা :ফুলবাড়িয়া 
+ ইউনিয়ন : ১ নং নাওগাও
+ পোস্ট অফিস : বালুঘাট
+ গ্রাম : কৃষ্ণপুর
+ কালার : Merun
+ সাইজ : M
+"	Pending	1	720			M ---> Merun 	M	Side Logo 		https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=841481569046070&business_id=&mailbox_id=&selected_item_id=61551658816568&thread_type=FB_MESSAGE	Entry By Rashed																		
+154	28 Nov	Mahin Shek	"Name: Mahin Shek
+Phone: 01752000653
+District: Faridpur
+Thana: Nagarkanda
+Village: Gojariya bazar
+Size: M
+Clour:black"	Completed	1	980			"M ---> Black Custom
+সামনে পিছনে দুই পাশে প্রিন্ট হবে "	M	Side Logo 		https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=841481569046070&business_id=&mailbox_id=&selected_item_id=100075952826201&thread_type=FB_MESSAGE																			
+155	30 Nov	অভি	"অর্ডারটি কনফার্ম করতে নিচের তথ্যগুলো দিনঃ
+ আপনার নাম : অভি
+ মোবাইল নাম্বার :01856199249
+ জেলা :নওগাঁ 
+ থানা :ধামইরহাট
+ ইউনিয়ন :জাহানপুর
+ পোস্ট অফিস :মঙ্গলবাড়ি
+ গ্রাম :বড়শিবপুর, ছানোয়ারের মোড়।
+ কালার :ব্লাক
+ সাইজ :XL
+তথ্যগুলো পেলে আমরা আপনার অর্ডারটি প্রসেস করে দেব।"	Delivered	1	850			XL --> Black	XL	Center Logo 																					
+156	03 Nov	Alifa Khatun	"
+ আপনার নাম : Mubarak
+ মোবাইল নাম্বার : 01916312929
+ জেলা : Gazipur, 
+ Address : bhobanipur, bager bazar
+ কালার :ব্লাক
+ সাইজ : L"	Pending	1	800			L --- Black	L	Center Logo 		https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=841481569046070&business_id=&mailbox_id=&selected_item_id=61582600706245&thread_type=FB_MESSAGE																			

@@ -1,0 +1,1301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+  <order>
+    <OrderID>157</OrderID>
+    <Date>4 Dec</Date>
+    <CustomerName>Tanmay (আহাদ পাঠিয়েছে )</CustomerName>
+    <Phone>01307573105</Phone>
+    <District>ভোলা</District>
+    <Thana>তযুমদ্দিন</Thana>
+    <Union></Union>
+    <PostOffice>আরালিয়া</PostOffice>
+    <Village></Village>
+    <Color>কালো</Color>
+    <Size>M</Size>
+    <Status>Delivered</Status>
+    <Quantity>1</Quantity>
+    <Price>750</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>Black ---> M</ProductDetails>
+    <EntryBy>M</EntryBy>
+    <Notes>Side Logo</Notes>
+    <Link>https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=841481569046070&business_id=&mailbox_id=&selected_item_id=61557676553077&thread_type=FB_MESSAGE</Link>
+  </order>
+  <order>
+    <OrderID>158</OrderID>
+    <Date>7 Dec</Date>
+    <CustomerName>Dil Rohid (আহাদ পাঠিয়েছে )</CustomerName>
+    <Phone>01849726256</Phone>
+    <District>narayangonj</District>
+    <Thana>siddirgoj</Thana>
+    <Union></Union>
+    <PostOffice></PostOffice>
+    <Village></Village>
+    <Color>Black</Color>
+    <Size>L</Size>
+    <Status>Return</Status>
+    <Quantity>1</Quantity>
+    <Price>770</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>Black ---> L</ProductDetails>
+    <EntryBy>L</EntryBy>
+    <Notes>Center Logo</Notes>
+    <Link>https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=841481569046070&business_id=&mailbox_id=&selected_item_id=61579395987145&thread_type=FB_MESSAGE</Link>
+  </order>
+  <order>
+    <OrderID>110</OrderID>
+    <Date>13 Nov</Date>
+    <CustomerName></CustomerName>
+    <Phone></Phone>
+    <District>খাগড়া ছড়ি</District>
+    <Thana></Thana>
+    <Union></Union>
+    <PostOffice></PostOffice>
+    <Village>থিকানা পানছড়ি বাভুরো পাড়া</Village>
+    <Color></Color>
+    <Size>XL, L</Size>
+    <Status>Canceled</Status>
+    <Quantity>2</Quantity>
+    <Price></Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>XL ---> navy Blue ;  L ---> Black</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>111</OrderID>
+    <Date>15 Nov</Date>
+    <CustomerName></CustomerName>
+    <Phone>01878020518</Phone>
+    <District>নয়াখালী</District>
+    <Thana>লোক্ষীপুর</Thana>
+    <Union></Union>
+    <PostOffice>তুঞ্চর</PostOffice>
+    <Village>লোক্ষীপুর</Village>
+    <Color>Black</Color>
+    <Size>L</Size>
+    <Status>Completed</Status>
+    <Quantity>1</Quantity>
+    <Price>720</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>L ---> Black</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>112</OrderID>
+    <Date>16 Nov</Date>
+    <CustomerName>Susanto Mondol</CustomerName>
+    <Phone></Phone>
+    <District>খুলনা</District>
+    <Thana>ডাকোপ</Thana>
+    <Union></Union>
+    <PostOffice></PostOffice>
+    <Village>বজুয়া</Village>
+    <Color>Black</Color>
+    <Size>XL</Size>
+    <Status>Completed</Status>
+    <Quantity>1</Quantity>
+    <Price>720</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>XL -----> Black</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>113</OrderID>
+    <Date>16 Nov</Date>
+    <CustomerName>রুহুল আমিন</CustomerName>
+    <Phone></Phone>
+    <District>সুনামগঞ্জ</District>
+    <Thana>সাতক</Thana>
+    <Union></Union>
+    <PostOffice></PostOffice>
+    <Village>মোহাম্মদপুর</Village>
+    <Color></Color>
+    <Size></Size>
+    <Status>Completed</Status>
+    <Quantity>1</Quantity>
+    <Price>720</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails></ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>114</OrderID>
+    <Date>17 Nov</Date>
+    <CustomerName></CustomerName>
+    <Phone></Phone>
+    <District>পাবনা</District>
+    <Thana>সাঁথিয়া</Thana>
+    <Union>ধুলাউড়ি</Union>
+    <PostOffice></PostOffice>
+    <Village></Village>
+    <Color>Black</Color>
+    <Size>L</Size>
+    <Status>Completed</Status>
+    <Quantity>1</Quantity>
+    <Price>720</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>L Black</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>115</OrderID>
+    <Date>17 Nov</Date>
+    <CustomerName></CustomerName>
+    <Phone>01625252164</Phone>
+    <District>নওগাঁ</District>
+    <Thana>সাপাহার</Thana>
+    <Union></Union>
+    <PostOffice>সাপাহার</PostOffice>
+    <Village></Village>
+    <Color>White</Color>
+    <Size>L</Size>
+    <Status>Return</Status>
+    <Quantity>1</Quantity>
+    <Price>720</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>L ----> White , বুকের মধ্যে টেক্সট যেটার</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>116</OrderID>
+    <Date>17 Nov</Date>
+    <CustomerName></CustomerName>
+    <Phone>01858272923</Phone>
+    <District>চট্টগ্রাম</District>
+    <Thana>হালিশহর</Thana>
+    <Union></Union>
+    <PostOffice></PostOffice>
+    <Village>আতিলার পাসে</Village>
+    <Color>Off White</Color>
+    <Size>M</Size>
+    <Status>Proccesing</Status>
+    <Quantity>1</Quantity>
+    <Price>799</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>M ----> off  white</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>117</OrderID>
+    <Date>18 Nov</Date>
+    <CustomerName></CustomerName>
+    <Phone>01824901651</Phone>
+    <District>নওগাঁ</District>
+    <Thana>ধামইরহাট</Thana>
+    <Union>জাহানপুর</Union>
+    <PostOffice>মঙ্গলবাড়ি</PostOffice>
+    <Village>বড়শিবপুর</Village>
+    <Color>Black</Color>
+    <Size>XL</Size>
+    <Status>Proccesing</Status>
+    <Quantity>1</Quantity>
+    <Price>720</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>XL --- > Black</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>118</OrderID>
+    <Date>18 Nov</Date>
+    <CustomerName>Bilas kumar Biswas</CustomerName>
+    <Phone>01708454475</Phone>
+    <District>ঝিনাইদহ</District>
+    <Thana>ঝিনাইদহ</Thana>
+    <Union></Union>
+    <PostOffice></PostOffice>
+    <Village>বকুলতলা, বানি পাড়া</Village>
+    <Color>NavyBlue</Color>
+    <Size>L</Size>
+    <Status>Proccesing</Status>
+    <Quantity>1</Quantity>
+    <Price>720</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>L ----> Navy Blue -- Center Logo</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>119</OrderID>
+    <Date>18 Nov</Date>
+    <CustomerName>জান্নাতুল ফেরদৌস মুক্তি</CustomerName>
+    <Phone>01761970425</Phone>
+    <District>খুলনা</District>
+    <Thana>খালিশপুর</Thana>
+    <Union></Union>
+    <PostOffice>জিপিও-৯০০০</PostOffice>
+    <Village>মুজগুন্নী ২১ নাম্বার মেইন রোড আয়কর ভবনের বিপরীতে সাদা ৪ তালা বিল্ডিং</Village>
+    <Color>কালো</Color>
+    <Size>M</Size>
+    <Status>Proccesing</Status>
+    <Quantity>1</Quantity>
+    <Price>930</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>M ----> black -- custom desing</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>120</OrderID>
+    <Date>18 Nov</Date>
+    <CustomerName>মাসুদ রানা</CustomerName>
+    <Phone>01753595470</Phone>
+    <District>ঢাকা</District>
+    <Thana>মিরপুর</Thana>
+    <Union></Union>
+    <PostOffice></PostOffice>
+    <Village>ছয় নাম্বার</Village>
+    <Color>Black</Color>
+    <Size>M</Size>
+    <Status>Return</Status>
+    <Quantity>1</Quantity>
+    <Price>720</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>M ---> Black</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>121</OrderID>
+    <Date>18 Nov</Date>
+    <CustomerName></CustomerName>
+    <Phone></Phone>
+    <District>গাজীপুর</District>
+    <Thana>কাপাসিয়া</Thana>
+    <Union></Union>
+    <PostOffice>সিংহশী</PostOffice>
+    <Village>কুড়িয়াদূ সিংশী</Village>
+    <Color>Black</Color>
+    <Size>L</Size>
+    <Status>Pending</Status>
+    <Quantity>1</Quantity>
+    <Price>850</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>L ---> Custom Design</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>122</OrderID>
+    <Date>18 Nov</Date>
+    <CustomerName>শাহ নাদির খান</CustomerName>
+    <Phone>01730958067</Phone>
+    <District>নওগাঁ</District>
+    <Thana>নিয়ামতপুর</Thana>
+    <Union></Union>
+    <PostOffice>হাজি নগর</PostOffice>
+    <Village>কুচ পাড়া</Village>
+    <Color>Black</Color>
+    <Size>L</Size>
+    <Status>Proccesing</Status>
+    <Quantity>1</Quantity>
+    <Price>720</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>L -----> Black</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>123</OrderID>
+    <Date>19 Nov</Date>
+    <CustomerName>মেহেদী হাসান</CustomerName>
+    <Phone>01640868185</Phone>
+    <District>বান্দরবান</District>
+    <Thana>নাইক্ষ্যংছড়ি</Thana>
+    <Union></Union>
+    <PostOffice></PostOffice>
+    <Village></Village>
+    <Color></Color>
+    <Size>XL</Size>
+    <Status>Proccesing</Status>
+    <Quantity>2</Quantity>
+    <Price>1300</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>xl --- > Black, White</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>124</OrderID>
+    <Date>19 Nov</Date>
+    <CustomerName>মাহমুদুল হাছান</CustomerName>
+    <Phone>01606186932</Phone>
+    <District>চাঁদপুর</District>
+    <Thana></Thana>
+    <Union></Union>
+    <PostOffice></PostOffice>
+    <Village>পাসপোর্ট অফিস</Village>
+    <Color>Black</Color>
+    <Size>L</Size>
+    <Status>Proccesing</Status>
+    <Quantity>1</Quantity>
+    <Price></Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>L	Center Logo</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>125</OrderID>
+    <Date>19 Nov</Date>
+    <CustomerName>ক্যাথুইমং মারমা</CustomerName>
+    <Phone>01848526824</Phone>
+    <District>বান্দরবান</District>
+    <Thana>রোয়াংছড়ি</Thana>
+    <Union>রোয়াংছড়ি</Union>
+    <PostOffice></PostOffice>
+    <Village>রোয়াংছড়ি</Village>
+    <Color>Black</Color>
+    <Size></Size>
+    <Status>Proccesing</Status>
+    <Quantity>1</Quantity>
+    <Price>720</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>xl---> Black ---> Center logo owneor</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>126</OrderID>
+    <Date>19 Nov</Date>
+    <CustomerName>Akash Ahmed</CustomerName>
+    <Phone>01704744264</Phone>
+    <District>মেহেরপুর</District>
+    <Thana>গাংনী</Thana>
+    <Union>মোতমুরা</Union>
+    <PostOffice></PostOffice>
+    <Village>মোতমুরা</Village>
+    <Color>Black</Color>
+    <Size>M</Size>
+    <Status>Proccesing</Status>
+    <Quantity>1</Quantity>
+    <Price>800</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>M ----> Black ----> Custom</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link>https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=841481569046070&business_id=&mailbox_id=&selected_item_id=100092507157348&thread_type=FB_MESSAGE</Link>
+  </order>
+  <order>
+    <OrderID>127</OrderID>
+    <Date></Date>
+    <CustomerName>Akash Ahmed</CustomerName>
+    <Phone>01704744264</Phone>
+    <District>মেহেরপুর</District>
+    <Thana>গাংনী</Thana>
+    <Union>মোতমুরা</Union>
+    <PostOffice></PostOffice>
+    <Village>মোতমুরা</Village>
+    <Color>Black</Color>
+    <Size>L</Size>
+    <Status></Status>
+    <Quantity>1</Quantity>
+    <Price>800</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>L ----> Black ----> custom</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>128</OrderID>
+    <Date></Date>
+    <CustomerName>Akash Ahmed</CustomerName>
+    <Phone>01704744264</Phone>
+    <District>মেহেরপুর</District>
+    <Thana>গাংনী</Thana>
+    <Union>মোতমুরা</Union>
+    <PostOffice></PostOffice>
+    <Village>মোতমুরা</Village>
+    <Color>Black</Color>
+    <Size>XL</Size>
+    <Status></Status>
+    <Quantity>1</Quantity>
+    <Price>800</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>XL---> Black ---> Center logo</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>129</OrderID>
+    <Date>19 Nov</Date>
+    <CustomerName>গুনজন চাকমা</CustomerName>
+    <Phone></Phone>
+    <District>খাগড়াছড়ি</District>
+    <Thana>দীঘিনালা</Thana>
+    <Union></Union>
+    <PostOffice></PostOffice>
+    <Village>বড়াদম</Village>
+    <Color>Black</Color>
+    <Size>XL</Size>
+    <Status>Pending</Status>
+    <Quantity>1</Quantity>
+    <Price>800</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>XL ----> Black ----> custom</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes>এইটার মধ্যে আমাদের লোগো বসবে না এবং শুধুমাত্র পিছনের ডিজাইনটা দিতে হবে</Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>130</OrderID>
+    <Date>19 Nov</Date>
+    <CustomerName>তানভীর আহমেদ</CustomerName>
+    <Phone>01315486527</Phone>
+    <District>কিশোরগঞ্জ</District>
+    <Thana>কুলিয়ারচর</Thana>
+    <Union>রামদি</Union>
+    <PostOffice></PostOffice>
+    <Village>আগরপুর বড়কান্দা</Village>
+    <Color></Color>
+    <Size>XL</Size>
+    <Status>Proccesing</Status>
+    <Quantity>1</Quantity>
+    <Price>720</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>XL ----> Off White ----> center logo</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>131</OrderID>
+    <Date>20 Nov</Date>
+    <CustomerName>মামুন আহমেদ</CustomerName>
+    <Phone>01787597825</Phone>
+    <District>মৌলভীবাজার</District>
+    <Thana>শ্রীমঙ্গল</Thana>
+    <Union>আশ্রীদোন</Union>
+    <PostOffice>কালিঘাট</PostOffice>
+    <Village>আমানতপুর</Village>
+    <Color></Color>
+    <Size>M</Size>
+    <Status>Proccesing</Status>
+    <Quantity>1</Quantity>
+    <Price>720</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>M ----> Light Brown  ----> Center Logo</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>132</OrderID>
+    <Date>20 Nov</Date>
+    <CustomerName>মোবারক</CustomerName>
+    <Phone>01866786805</Phone>
+    <District></District>
+    <Thana>মরিচ্যা</Thana>
+    <Union></Union>
+    <PostOffice></PostOffice>
+    <Village></Village>
+    <Color>Black</Color>
+    <Size>L</Size>
+    <Status>Pending</Status>
+    <Quantity>1</Quantity>
+    <Price>720</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>L ---> Black</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>133</OrderID>
+    <Date>20 Nov</Date>
+    <CustomerName>MD . Sadik</CustomerName>
+    <Phone>01797883430</Phone>
+    <District>Bogura</District>
+    <Thana>Adomdhighi</Thana>
+    <Union>Champapur</Union>
+    <PostOffice>Champapur</PostOffice>
+    <Village>Champapur</Village>
+    <Color>White</Color>
+    <Size>L</Size>
+    <Status>Proccesing</Status>
+    <Quantity>1</Quantity>
+    <Price>850</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>L ----> White</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>134</OrderID>
+    <Date>20 Nov</Date>
+    <CustomerName>Fahad Ahmed</CustomerName>
+    <Phone>01799786364</Phone>
+    <District>মৌলভীবাজার</District>
+    <Thana>কুলাউড়া</Thana>
+    <Union></Union>
+    <PostOffice>কুলাউড়া</PostOffice>
+    <Village>কাছিমনগর</Village>
+    <Color>Navy Blue</Color>
+    <Size>XL</Size>
+    <Status>Proccesing</Status>
+    <Quantity>1</Quantity>
+    <Price>720</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>XL --- > Navy blue</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>135</OrderID>
+    <Date>21 Nov</Date>
+    <CustomerName>Rahad Chowdhury</CustomerName>
+    <Phone>01648695937</Phone>
+    <District>Moulovibazar</District>
+    <Thana>Sreemangal</Thana>
+    <Union>Sreemangal</Union>
+    <PostOffice>sreemangal</PostOffice>
+    <Village>sreemangal</Village>
+    <Color>Black,white,offwhite</Color>
+    <Size>L-2pis,XL-2pis / L-2pis,XL-2pis / L-1pis,XL-1piss</Size>
+    <Status>Completed</Status>
+    <Quantity>10</Quantity>
+    <Price>5900</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>Black (L-2pis,XL-2pis)/ White(L-2pis,XL-2pis)/ Light Brown(L-2pis)</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>136</OrderID>
+    <Date>21 Nov</Date>
+    <CustomerName>মুয়াজ</CustomerName>
+    <Phone>01682822978</Phone>
+    <District>ঢাকা</District>
+    <Thana>কেরানীগঞ্জ</Thana>
+    <Union>শা ক্তা</Union>
+    <PostOffice>আটিবাজার</PostOffice>
+    <Village>নবাবচার</Village>
+    <Color>নেভি ব্লু</Color>
+    <Size>L</Size>
+    <Status>Proccesing</Status>
+    <Quantity>1</Quantity>
+    <Price>720</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>L ---> Navy Blue</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>137</OrderID>
+    <Date>21 Nov</Date>
+    <CustomerName>লোক্মান হোসেন</CustomerName>
+    <Phone>01701427920</Phone>
+    <District>মৌলভী বাজার</District>
+    <Thana>শ্রীমঙ্গল</Thana>
+    <Union>৫ নং কালাপুর</Union>
+    <PostOffice></PostOffice>
+    <Village>বরুনা হাজীপুর</Village>
+    <Color></Color>
+    <Size>XL</Size>
+    <Status>Completed</Status>
+    <Quantity>1</Quantity>
+    <Price>850</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>XL--> Merun</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>138</OrderID>
+    <Date>22 Nov</Date>
+    <CustomerName>মাহাদি হাসান জুনায়েদ</CustomerName>
+    <Phone>01604801087</Phone>
+    <District></District>
+    <Thana>গলগন্ডা</Thana>
+    <Union></Union>
+    <PostOffice></PostOffice>
+    <Village></Village>
+    <Color>Navy Blue</Color>
+    <Size>L</Size>
+    <Status>Pending</Status>
+    <Quantity>1</Quantity>
+    <Price>720</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>L ---> Navy Blue</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>139</OrderID>
+    <Date>ajke</Date>
+    <CustomerName>রুমানা</CustomerName>
+    <Phone>01735347867</Phone>
+    <District>সাতখিরা</District>
+    <Thana>শেমনাগর</Thana>
+    <Union>পদ্ম পুকুর</Union>
+    <PostOffice></PostOffice>
+    <Village>পাখিমারা</Village>
+    <Color>কালো</Color>
+    <Size>XL</Size>
+    <Status>Pending</Status>
+    <Quantity>1</Quantity>
+    <Price>720</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>XL---> Black</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>140</OrderID>
+    <Date>24 Nov</Date>
+    <CustomerName>তানবীর</CustomerName>
+    <Phone>01819987808</Phone>
+    <District>চট্টগ্রাম</District>
+    <Thana>চাঁদগাও</Thana>
+    <Union></Union>
+    <PostOffice></PostOffice>
+    <Village>বহদ্দারহাট বিতরে হাজির পুল বিতরে ড়ালিয়া পাড়া</Village>
+    <Color>কালো</Color>
+    <Size>XL</Size>
+    <Status>Pending</Status>
+    <Quantity>1</Quantity>
+    <Price>720</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>XL -- > Black</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>141</OrderID>
+    <Date>24 Nov</Date>
+    <CustomerName>Sajjad</CustomerName>
+    <Phone>01731503430</Phone>
+    <District>comilla</District>
+    <Thana>Burichong</Thana>
+    <Union>burichong</Union>
+    <PostOffice>burichong</PostOffice>
+    <Village>Bijoypara</Village>
+    <Color>Light Brown</Color>
+    <Size>XL</Size>
+    <Status>Proccesing</Status>
+    <Quantity>1</Quantity>
+    <Price>720</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>XL ---> Light Brown</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>142</OrderID>
+    <Date>24 Nov</Date>
+    <CustomerName>সিফাত হোসেন</CustomerName>
+    <Phone>01976589798</Phone>
+    <District>Chittagong</District>
+    <Thana>মিরসরাই</Thana>
+    <Union></Union>
+    <PostOffice></PostOffice>
+    <Village>গরি হাস</Village>
+    <Color>Light Brown</Color>
+    <Size>M</Size>
+    <Status>Completed</Status>
+    <Quantity>1</Quantity>
+    <Price>720</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>M ---> Light Brown</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>143</OrderID>
+    <Date>24 Nov</Date>
+    <CustomerName>নাদিম</CustomerName>
+    <Phone>01968496665</Phone>
+    <District>Dhaka</District>
+    <Thana>নবাবগঞ্জ</Thana>
+    <Union></Union>
+    <PostOffice>নবাবগঞ্জ</PostOffice>
+    <Village></Village>
+    <Color>Black</Color>
+    <Size>XL</Size>
+    <Status>Pending</Status>
+    <Quantity>1</Quantity>
+    <Price>720</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>XL ---> Black Color</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>144</OrderID>
+    <Date>24 Nov</Date>
+    <CustomerName>রনি</CustomerName>
+    <Phone>01581895147</Phone>
+    <District>খাগড়াছড়ি</District>
+    <Thana>মাটিরাঙ্গা</Thana>
+    <Union>তবলছড়ি তাইন্দং তিন নম্বর ইসলামপুর</Union>
+    <PostOffice></PostOffice>
+    <Village></Village>
+    <Color></Color>
+    <Size>XL</Size>
+    <Status>Pending</Status>
+    <Quantity>1</Quantity>
+    <Price>720</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>XL ---> Black Color</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>145</OrderID>
+    <Date>25 Nov</Date>
+    <CustomerName>সাহেব</CustomerName>
+    <Phone>01324863771</Phone>
+    <District>গাইবান্ধা</District>
+    <Thana>গোবিন্দগঞ্জ</Thana>
+    <Union>কামদিয়া</Union>
+    <PostOffice></PostOffice>
+    <Village>এনায়েতপুর</Village>
+    <Color>কালো</Color>
+    <Size>L</Size>
+    <Status>Pending</Status>
+    <Quantity>1</Quantity>
+    <Price>800</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>L --> Black Color</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>146</OrderID>
+    <Date>25 Nov</Date>
+    <CustomerName></CustomerName>
+    <Phone>01882527776</Phone>
+    <District>নোয়াখালী</District>
+    <Thana>চাটখিল</Thana>
+    <Union>৩নং পারকোট ইউনিয়ন</Union>
+    <PostOffice></PostOffice>
+    <Village>দশঘরিয়া বাজার, তপদার বাড়ি</Village>
+    <Color></Color>
+    <Size>M</Size>
+    <Status>Completed</Status>
+    <Quantity>1</Quantity>
+    <Price>800</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>M--->Off white</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>147</OrderID>
+    <Date>25 Nov</Date>
+    <CustomerName>সাইফ</CustomerName>
+    <Phone>01606178620</Phone>
+    <District>কুমিল্লা</District>
+    <Thana>মুরাদনগর</Thana>
+    <Union>রামচন্দ্রপুর</Union>
+    <PostOffice>রামচন্দ্রপুর</PostOffice>
+    <Village>কাঠালিয়া কান্দ</Village>
+    <Color>black</Color>
+    <Size>M, L</Size>
+    <Status>Completed</Status>
+    <Quantity>2</Quantity>
+    <Price>1600</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>Real Madrid ""M"", FC Barcelona ""L"" ----> Black</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>148</OrderID>
+    <Date>26 Nov</Date>
+    <CustomerName>MD Rana</CustomerName>
+    <Phone>01942636446</Phone>
+    <District>ময়মনসিংহ</District>
+    <Thana>ত্রিশাল</Thana>
+    <Union>ত্রিশাল পৌরসভা</Union>
+    <PostOffice>ত্রিশাল</PostOffice>
+    <Village>নওধার পাতার মিল ৬ নং ওয়াড পৌরসভা</Village>
+    <Color>কালো</Color>
+    <Size>m</Size>
+    <Status>Proccesing</Status>
+    <Quantity>1</Quantity>
+    <Price>850</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>M ---> Black</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>149</OrderID>
+    <Date>26 Nov</Date>
+    <CustomerName>নজমুল</CustomerName>
+    <Phone>01742074846</Phone>
+    <District>মৌলভীবাজার</District>
+    <Thana>জুড়ি</Thana>
+    <Union>জুড়ি</Union>
+    <PostOffice>জুড়ি</PostOffice>
+    <Village>জুড়ি</Village>
+    <Color></Color>
+    <Size>XL</Size>
+    <Status>Canceled</Status>
+    <Quantity>1</Quantity>
+    <Price>720</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>XL ---> Green</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>150</OrderID>
+    <Date>27 Nov</Date>
+    <CustomerName>মো সোীরাজ মিয়া</CustomerName>
+    <Phone>01726560455</Phone>
+    <District>মৌলভীবাজার</District>
+    <Thana>মৌলভীবাজার</Thana>
+    <Union>আমতৈল</Union>
+    <PostOffice>আমতৈল</PostOffice>
+    <Village>আমতৈল</Village>
+    <Color></Color>
+    <Size>M</Size>
+    <Status>Proccesing</Status>
+    <Quantity>1</Quantity>
+    <Price>720</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>M--->Off white ( see image )</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>151</OrderID>
+    <Date>27 Nov</Date>
+    <CustomerName>মোঃ শান্ত হোসেন</CustomerName>
+    <Phone>01612231646</Phone>
+    <District>বগুড়া</District>
+    <Thana></Thana>
+    <Union></Union>
+    <PostOffice></PostOffice>
+    <Village>ঠেঙ্গামারা টিএমএসএস মেডিকেল হসপিটাল</Village>
+    <Color>লাল</Color>
+    <Size>M</Size>
+    <Status>Return</Status>
+    <Quantity>1</Quantity>
+    <Price>720</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>m-->red ( see image )</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>152</OrderID>
+    <Date>27 Nov</Date>
+    <CustomerName>Nayeem</CustomerName>
+    <Phone>01707048655</Phone>
+    <District></District>
+    <Thana></Thana>
+    <Union></Union>
+    <PostOffice></PostOffice>
+    <Village>Dhanmondi r/A road 12 /A house.no.59 /A</Village>
+    <Color>black</Color>
+    <Size>L</Size>
+    <Status>Proccesing</Status>
+    <Quantity>1</Quantity>
+    <Price>790</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>L ---> black</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>153</OrderID>
+    <Date>28 Nov</Date>
+    <CustomerName>মো শরিফুল ইসলাম স্বপ্ন</CustomerName>
+    <Phone>01753743619</Phone>
+    <District>ময়মনসিংহ</District>
+    <Thana>ফুলবাড়িয়া</Thana>
+    <Union>১ নং নাওগাও</Union>
+    <PostOffice>বালুঘাট</PostOffice>
+    <Village>কৃষ্ণপুর</Village>
+    <Color>Merun</Color>
+    <Size>M</Size>
+    <Status>Pending</Status>
+    <Quantity>1</Quantity>
+    <Price>720</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>M ---> Merun</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>154</OrderID>
+    <Date>28 Nov</Date>
+    <CustomerName>Mahin Shek</CustomerName>
+    <Phone>01752000653</Phone>
+    <District>Faridpur</District>
+    <Thana>Nagarkanda</Thana>
+    <Union></Union>
+    <PostOffice></PostOffice>
+    <Village>Gojariya bazar</Village>
+    <Color>black</Color>
+    <Size>M</Size>
+    <Status>Completed</Status>
+    <Quantity>1</Quantity>
+    <Price>980</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>M ---> Black Custom</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>155</OrderID>
+    <Date>30 Nov</Date>
+    <CustomerName>অভি</CustomerName>
+    <Phone>01856199249</Phone>
+    <District>নওগাঁ</District>
+    <Thana>ধামইরহাট</Thana>
+    <Union>জাহানপুর</Union>
+    <PostOffice>মঙ্গলবাড়ি</PostOffice>
+    <Village>বড়শিবপুর, ছানোয়ারের মোড়</Village>
+    <Color>ব্লাক</Color>
+    <Size>XL</Size>
+    <Status>Delivered</Status>
+    <Quantity>1</Quantity>
+    <Price>850</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>XL --> Black</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>156</OrderID>
+    <Date>03 Nov</Date>
+    <CustomerName>Mubarak</CustomerName>
+    <Phone>01916312929</Phone>
+    <District>Gazipur</District>
+    <Thana></Thana>
+    <Union></Union>
+    <PostOffice></PostOffice>
+    <Village>bhobanipur, bager bazar</Village>
+    <Color>ব্লাক</Color>
+    <Size>L</Size>
+    <Status>Pending</Status>
+    <Quantity>1</Quantity>
+    <Price>800</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>L --- Black</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link></Link>
+  </order>
+  <order>
+    <OrderID>157</OrderID>
+    <Date>4 Dec</Date>
+    <CustomerName>Tanmay</CustomerName>
+    <Phone>01307573105</Phone>
+    <District>ভোলা</District>
+    <Thana>তযুমদ্দিন</Thana>
+    <Union></Union>
+    <PostOffice>আরালিয়া</PostOffice>
+    <Village></Village>
+    <Color>কালো</Color>
+    <Size>M</Size>
+    <Status>Delivered</Status>
+    <Quantity>1</Quantity>
+    <Price>750</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>Black ---> M</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link>https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=841481569046070&business_id=&mailbox_id=&selected_item_id=61557676553077&thread_type=FB_MESSAGE</Link>
+  </order>
+  <order>
+    <OrderID>158</OrderID>
+    <Date>7 Dec</Date>
+    <CustomerName>Dil Rohid</CustomerName>
+    <Phone>01849726256</Phone>
+    <District>narayangonj</District>
+    <Thana>siddirgoj</Thana>
+    <Union></Union>
+    <PostOffice></PostOffice>
+    <Village></Village>
+    <Color>Black</Color>
+    <Size>L</Size>
+    <Status>Return</Status>
+    <Quantity>1</Quantity>
+    <Price>770</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>Black ---> L</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link>https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=841481569046070&business_id=&mailbox_id=&selected_item_id=61579395987145&thread_type=FB_MESSAGE</Link>
+  </order>
+  <order>
+    <OrderID>159</OrderID>
+    <Date>7 Dec</Date>
+    <CustomerName>Md Mubin Hossain</CustomerName>
+    <Phone>01884821158</Phone>
+    <District>ঝালকাঠি</District>
+    <Thana>সদর</Thana>
+    <Union></Union>
+    <PostOffice></PostOffice>
+    <Village></Village>
+    <Color>কালো</Color>
+    <Size>L</Size>
+    <Status>Return</Status>
+    <Quantity>2</Quantity>
+    <Price>1600</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>Black Custom ( Money ) ----> L</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link>https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=841481569046070&business_id=&mailbox_id=&selected_item_id=100086439420556&thread_type=FB_MESSAGE</Link>
+  </order>
+  <order>
+    <OrderID>160</OrderID>
+    <Date>8 Dec</Date>
+    <CustomerName>Tuhin</CustomerName>
+    <Phone>01955475301</Phone>
+    <District>নারায়ণগঞ্জ</District>
+    <Thana>ফতুল্লা</Thana>
+    <Union></Union>
+    <PostOffice></PostOffice>
+    <Village>এনায়েত নগর বনশ্রী</Village>
+    <Color>কালো</Color>
+    <Size>XL</Size>
+    <Status>Return</Status>
+    <Quantity>1</Quantity>
+    <Price>100</Price>
+    <Delivery>100</Delivery>
+    <Total></Total>
+    <ProductDetails>Black Center Logo ----> XL</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link>https://business.facebook.com/latest/inbox/all/?asset_id=841481569046070&business_id=855245994336294&mailbox_id=&nav_ref=manage_page_ap_plus_inbox_message_button&selected_item_id=100083150293396&thread_type=FB_MESSAGE</Link>
+  </order>
+  <order>
+    <OrderID>161</OrderID>
+    <Date>8 Dec</Date>
+    <CustomerName>Nîhsâñ Høssêñ</CustomerName>
+    <Phone>01787601968</Phone>
+    <District>নওগাঁ</District>
+    <Thana>নওগাঁ</Thana>
+    <Union>খাস নওগাঁ</Union>
+    <PostOffice></PostOffice>
+    <Village>ইঁদুর বটতলী</Village>
+    <Color>Black</Color>
+    <Size>M</Size>
+    <Status>Delivered</Status>
+    <Quantity>1</Quantity>
+    <Price>780</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>Black Center Logo ----> M</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link>https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=841481569046070&business_id=&mailbox_id=&selected_item_id=61564498893585&thread_type=FB_MESSAGE</Link>
+  </order>
+  <order>
+    <OrderID>162</OrderID>
+    <Date>8 Dec</Date>
+    <CustomerName>S S Sadekin Talukder</CustomerName>
+    <Phone>01738463598</Phone>
+    <District>ময়মনসিংহ</District>
+    <Thana>পাগলা</Thana>
+    <Union>মশাখালী</Union>
+    <PostOffice>হোসেন সাহি</PostOffice>
+    <Village>মশাখালী</Village>
+    <Color>সাদা</Color>
+    <Size>M</Size>
+    <Status>Canceled</Status>
+    <Quantity>1</Quantity>
+    <Price>880</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>White Custom Logo ----> M</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link>http://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=841481569046070&business_id=&mailbox_id=&selected_item_id=61553428054770&thread_type=FB_MESSAGE</Link>
+  </order>
+  <order>
+    <OrderID>163</OrderID>
+    <Date>8 Dec</Date>
+    <CustomerName>Sahana</CustomerName>
+    <Phone>01707063718</Phone>
+    <District>দক্ষিণ কেরানীগঞ্জ</District>
+    <Thana></Thana>
+    <Union></Union>
+    <PostOffice></PostOffice>
+    <Village>হাসনাবাদ হাউসিং রোড ১৭ নম্বর গলি 17 নম্বর বাড়ি</Village>
+    <Color>সাদা</Color>
+    <Size>XL</Size>
+    <Status>Completed</Status>
+    <Quantity>1</Quantity>
+    <Price>820</Price>
+    <Delivery>100</Delivery>
+    <Total></Total>
+    <ProductDetails>White Custom Logo ----> XL</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link>Whats Apps</Link>
+  </order>
+  <order>
+    <OrderID>164</OrderID>
+    <Date>8 Dec</Date>
+    <CustomerName>মো মিনহাজ</CustomerName>
+    <Phone>01308157655</Phone>
+    <District>সুনামগঞ্জ</District>
+    <Thana>সুনামগঞ্জ</Thana>
+    <Union>কুরবান নগর ইউনিয়</Union>
+    <PostOffice></PostOffice>
+    <Village>গেরাম খান্দা গাও</Village>
+    <Color>কালো</Color>
+    <Size>L</Size>
+    <Status>Delivered</Status>
+    <Quantity>1</Quantity>
+    <Price>780</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>Black Center Logo ----> L</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link>Whats Apps</Link>
+  </order>
+  <order>
+    <OrderID>165</OrderID>
+    <Date>9 Dec</Date>
+    <CustomerName>Naeeym Hasan</CustomerName>
+    <Phone>01886642782</Phone>
+    <District>ময়মনসিংহ</District>
+    <Thana>ঈশ্বরগনজ</Thana>
+    <Union>তারুনদিয়া</Union>
+    <PostOffice></PostOffice>
+    <Village>কুনাপাড়া</Village>
+    <Color>কালো</Color>
+    <Size>M</Size>
+    <Status>Return</Status>
+    <Quantity>1</Quantity>
+    <Price>880</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails>Black Custom ( Pretender ) ----> M</ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link>https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=841481569046070&business_id=&mailbox_id=&selected_item_id=61570137192935&thread_type=FB_MESSAGE</Link>
+  </order>
+  <order>
+    <OrderID>166</OrderID>
+    <Date>8 Dec</Date>
+    <CustomerName>Safayet Ahmed</CustomerName>
+    <Phone></Phone>
+    <District>কিশোরগঞ্জ</District>
+    <Thana>তাড়াইল</Thana>
+    <Union>রাউতি</Union>
+    <PostOffice>পুরুড়া বাজার</PostOffice>
+    <Village>পুরুড়া</Village>
+    <Color>সাদা</Color>
+    <Size>L</Size>
+    <Status>Canceled</Status>
+    <Quantity>1</Quantity>
+    <Price>850</Price>
+    <Delivery></Delivery>
+    <Total></Total>
+    <ProductDetails></ProductDetails>
+    <EntryBy></EntryBy>
+    <Notes></Notes>
+    <Link>https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=841481569046070&business_id=&mailbox_id=&selected_item_id=61552132661225&thread_type=FB_MESSAGE</Link>
+  </order>
+</orders>
