@@ -14,7 +14,13 @@ if (!defined('ABSPATH')) {
     exit;
 }
 
-// Include the main class
+// Include all classes
+include_once plugin_dir_path(__FILE__) . 'includes/class-analysis.php';
+include_once plugin_dir_path(__FILE__) . 'includes/class-purchase-price.php';
+include_once plugin_dir_path(__FILE__) . 'includes/class-admin-pages.php';
+include_once plugin_dir_path(__FILE__) . 'includes/class-admin-menu.php';
+include_once plugin_dir_path(__FILE__) . 'includes/class-order-import.php';
+include_once plugin_dir_path(__FILE__) . 'includes/class-scripts.php';
 include_once plugin_dir_path(__FILE__) . 'includes/class-owneor-analize.php';
 
 // Initialize the plugin
